@@ -1,4 +1,5 @@
 **Clone the repository.**
+
 To run, use:
 Macbook: python3 app.py 
 Windows/Linux: python app.py    
